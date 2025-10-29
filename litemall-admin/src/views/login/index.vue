@@ -50,7 +50,7 @@
     </el-form>
 
     <div class="copyright">
-      Copyright © 2022 xxx.com 版权所有 <a href="https://github.com/linlinjava/litemall">沪ICP备xxx号</a>
+      Copyright © 2025 www.bestgogo.top 版权所有 <a href="https://www.bestgogo.top">辽ICP备xxx号</a>
     </div>
   </div>
 </template>
